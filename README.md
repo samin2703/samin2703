@@ -1,4 +1,4 @@
-
+![logo](https://github.com/samin2703/samin2703/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Samin Sadique Aurin</h1>
 <h3 align="center">A passionate ML Engineer from Bangladesh</h3>
 
