@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samin2703&label=Profile%20views&color=0e75b6&style=flat-square" alt="samin2703" /> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samin2703&theme=blue-green)](https://git.io/streak-stats)
+
 
 - 💬 Ask me about **Python, Machine Learning, Neural Networks, LLM, Computer Vision**
 - 📫 How to reach me **sa.samin1201@gmail.com**
